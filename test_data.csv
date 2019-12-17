@@ -1,0 +1,5 @@
+timestamp;lat;long;weight;country;type
+07.12.2019 00:00:00;51.856987;6.672655;500;netherlands;import
+07.12.2019 00:00:00;52.208448;7.155842;1300;netherlands;export
+07.12.2019 00:00:00;49.746669;6.321247;100;Luxemburg;import
+07.12.2019 00:00:00;49.518968;6.496951;200;Luxemburg;export
