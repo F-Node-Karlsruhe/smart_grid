@@ -1,4 +1,4 @@
-﻿Datum;Uhrzeit;Kommerzieller Nettoexport[MWh];Niederlande (Export)[MWh];Niederlande (Import)[MWh];Schweiz (Export)[MWh];Schweiz (Import)[MWh];Dänemark (Export)[MWh];Dänemark (Import)[MWh];Tschechien (Export)[MWh];Tschechien (Import)[MWh];Luxemburg (Export)[MWh];Luxemburg (Import)[MWh];Schweden (Export)[MWh];Schweden (Import)[MWh];Österreich (Export)[MWh];Österreich (Import)[MWh];Frankreich (Export)[MWh];Frankreich (Import)[MWh];Polen (Export)[MWh];Polen (Import)[MWh]
+﻿Datum;Uhrzeit;net_export;nl_export;nl_import;ch_export;ch_import;dk_export;dk_import;cz_export;cz_import;lu_export;lu_import;sw_export;sw_import;au_export;au_import;fr_export;fr_import;pl_export;pl_import
 01.01.2017;00:00;9.516;1.521;-2;1.200;-0;0;-585;37;-2.027;433;-6;2;-0;6.799;-1.125;4.079;-0;0;-810
 01.01.2017;01:00;9.569;1.365;-2;1.200;-0;0;-585;37;-2.018;413;-6;2;-0;6.963;-1.216;4.235;-0;0;-819
 01.01.2017;02:00;9.283;1.329;-2;1.200;-0;0;-585;37;-1.953;396;-6;2;-0;6.726;-1.248;4.271;-0;0;-884
