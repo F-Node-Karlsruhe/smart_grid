@@ -1,4 +1,4 @@
-country;long;lat;type
+country;long;lat
 nl_import;52.208448;6.804434
 nl_export;51.938339;6.628553
 lu_import;49.945034;6.233296
@@ -15,5 +15,4 @@ pl_import;52.342891;14.581793
 pl_export;52.019543;14.713545
 dk_import;54.769801;8.740771
 dk_export;54.769801;9.487368
-net_import;51.639328;9.750997
 net_export;51.228388;9.707071
