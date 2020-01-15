@@ -1,0 +1,75 @@
+id;lat;long;city;road;number
+100;50.7921029;6.1185974;Aachen ;Prager Ring;106
+111;49.2120935;9.0769819;Bad Rappenau ;Buchäckerring;40
+112;49.96278135;11.6107850192525;Bayreuth ;Christian-Ritter-von-Langheinrich;2
+114;50.37194885;11.7886343857023;Berg bei Hof ;Sieggrubenstraße ;5
+116;52.4925883;13.5730593;Berlin ;Heerstraße;37
+117;52.5346916;13.3645584;Berlin ;Heidestraße;19
+118;52.5114331;13.4288729;Berlin ;Holzmarktstraße;36 - 42
+119;52.5716016;13.4296019;Berlin ;Rothenbachstr. ;1
+121;52.4786467;13.3550598;Berlin ;Sachsendamm;90 - 92
+128;53.0577831;8.9625129;Bremen ;Osterholzer Heerstraße;222
+136;48.4071187;10.9513349204483;Derching ;Winterbruckenweg			;53
+138;51.0365149;13.7486437;Dresden ;Wiener Strasse;39
+139;51.43819415;6.73897718340605;Duisburg ;Am Schlütershof ;27
+140;51.2224356;6.8203181;Düsseldorf ;Höherweg;202
+141;51.1893182;6.8481428;Düsseldorf ;Oerschbachstraße;71
+146;51.5031007;7.0490885;Essen ;Katernberger Str.		;99
+147;48.82230215;9.28537070224665;Fellbach ;Ohmstraße;25
+149;50.1232501;8.74321703454232;Frankfurt ;Hanauer Landstr.;334
+150;0.0;0.0;Frankfurt ;Industriepark Höchst Tor-Süd;unknown streetnr
+152;50.9147956;6.8361793;Frechen ;Kölner Straße;209
+153;0.0;0.0;Freiburg Fraunhofer ISE Station;Heidenhofstraße;3
+154;0.0;0.0;Fürholzen West ;BAB9 / Günzenhauser Straße ;9
+155;49.4802092;11.0095252;Fürth ;Hans-Vogel-Str. ;55
+158;49.7661512;10.4702085;Geiselwind ;Scheinfelder Straße;23
+159;47.9171221;8.66796350932853;Geisingen ;Bodenseestraße;19
+162;53.4436638;11.2126734;Hagenow ;Sudenhofer Strasse	;2
+163;51.48959165;11.9412334061738;Halle / Saale;Blücherstraße;7
+165;53.5934862;10.0589728;Hamburg ;Bramfelder Chaussee;370
+167;53.5469374;10.0041271;Hamburg ;Oberbaumbrücke;1
+169;53.5734658;9.9193304;Hamburg ;Schnackenburgallee;12
+170;0.0;0.0;Handewitt ;Lecker Chausee;36
+171;52.4212225;9.72739685;Hannover ;Industrieweg;30
+172;52.2656391;7.9643412;Hasbergen ;Hauptstraße ;107
+176;0.0;0.0;Herten;Marie-Curie-Str/Albert-Einstein-Allee;unknown streetnr
+177;0.0;0.0;Hirschberg ;Goldbeckstraße ;1
+180;48.75283035;11.4516332748833;Ingolstadt ;Manchinger Straße;84
+183;51.5722897;7.6926267;Kamen ;Schattweg;6
+184;48.9856887;8.447428;Karlsruhe ;Erlachseeweg;10
+187;50.3466387;7.5070666;Koblenz ;Am Rübenacher Wald;2
+189;0.0;0.0;Köln/Bonn Flughafen ;Flughafen Köln/Bonn;unknown streetnr
+192;0.0;0.0;Laatzen / Messe Hannover ;Karlsruher Str.;12
+194;51.41340665;12.3077606180055;Leipzig ;Poststr. ;3 
+195;51.0246298;7.0058488;Leverkusen ;Karl-Krekeler-Str.;2
+196;50.3803168;8.0927724;Limburg ;Brüsseler Str.;14
+198;0.0;0.0;Lohfelden / Kassel ;Alexander-von-Humbodt-Str.;1
+201;52.2113498;11.6707176927227;Magdeburg ;Glindenberger Weg;3
+204;0.0;0.0;Metzingen ;Auchterstraße;19
+205;51.15891245;6.44625115;Mönchengladbach ;Odenkirchenerstr.;160
+206;51.43973535;6.95458679472378;Mülheim an der Ruhr ;Humboldtring;3
+207;48.19235505;11.5646409845771;München ;Detmoldstraße;1
+208;0.0;0.0;München ;Erdinger Allee;2
+209;48.121357;11.663883;München ;Kreillerstraße;220
+210;48.1026803;11.6254195;München ;Ottobrunner Str. ;116
+211;48.1649558;11.4673026;München ;Verdistraße;96
+213;51.8925152;7.5841728;Münster ;Kopenhagener Straße;19
+216;49.41055565;11.1462792788462;Nürnberg ;Gleiwitzer Straße;220
+217;50.106311;8.73560534851791;Offenbach ;Kaiserleipromenade;5
+225;48.9728822;12.0647243;Pentling ;Ammerholz;3
+226;48.92043355;8.72064329018156;Pforzheim ;Im Buchbusch;12
+227;52.38207825;13.0884129;Potsdam ;Horstweg ;53c
+230;51.2954049;6.9149357;Ratingen ;Brachter Str.;36
+232;51.8490932;8.32326831083794;Rheda;Bielefelder Str.;145
+236;54.0805767;12.1890671;Rostock ;Tessiner Str.;98
+241;49.1710258;10.2414089416858;Schnelldorf ;Rudolf-Diesel-Str. ;1 
+243;0.0;0.0;Siegen;Obere Leimbach;unknown streetnr
+244;48.7032184;9.0048578;Sindelfingen ;Neckarstraße;10
+245;53.0117287;8.703734;Stuhr ;Moordeicher Landstr. ;84-86
+246;48.6929656;9.198638;Stuttgart ;Flughafenstraße;70
+250;48.4256658;9.9597545;Ulm ;Helmholtzstraße;8
+260;49.8966051;8.61317310537034;Weiterstadt ;Robert-Koch-Str.;1
+261;48.6743797;9.3717161;Wendlingen ;Heinrich-Otto-Str.;2
+264;50.05681745;8.3393322556147;Wiesbaden ;Borsigstraße;1
+265;52.4462074;10.8021074;Wolfsburg ;Schulenburgallee;2
+267;51.30824565;7.25263537488913;Wuppertal ;Schmiedestr.;91

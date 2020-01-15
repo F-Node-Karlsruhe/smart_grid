@@ -1,0 +1,121 @@
+id;town;road;number;plz;country;operator
+100;Aachen (Shell);Prager Ring;106;52070;DE;H2 MOBILITY
+101;Aalborg;Hobrovej;461;9200;DK;Copenhagen Hydrogen Network A/S
+102;Aarhus;Logistikparken;12;8220;DK;Danish Hydrogen Fuel A/S
+103;Aberdeen City Hydrogen Energy Storage (ACHES);Aberdeen City Hydrogen Energy Storage, Langdykes Road, Cove;unknown streetnr;AB12 3HA;GB;Aberdeen City Council
+104;Aberdeen Kittybrewster;Powis terrace;unknown streetnr;AB25 3RF;GB;Aberdeen City Council
+105;Alma -Paris (Air Liquide);Place de l'Alma;unknown streetnr;75008;FR;Air Liquide FR
+106;Arlanda;Pilotvägen;2;190 60;SE;AGA Linde
+108;ASKO MIDT-NORGE AS;Østre Rosten;104;7075;NO;unknown operatorname
+109;Asten (OMV);An der Bundesstraße;1;4481;AT;OMV AT
+111;Bad Rappenau (Autohof 24);Buchäckerring;40;74906;DE;H2 MOBILITY
+112;Bayreuth (Shell);Christian-Ritter-von-Langheinrich;2;95448;DE;H2 MOBILITY
+113;Beaconsfield;Shell Beaconsfield, Extra Motorway Service Area, M40 Junction 2, A355, Widnsor Drive;unknown streetnr;HP9 2SE;GB;ITM Power
+114;Berg bei Hof (Shell);Sieggrubenstraße ;5;95180;DE;H2 MOBILITY
+116;Berlin - Heerstraße (TOTAL);Heerstraße;37;14055;DE;H2 MOBILITY
+117;Berlin - Heidestraße (TOTAL);Heidestraße;19;10557;DE;H2 MOBILITY
+118;Berlin - Holzmarktstraße (TOTAL);Holzmarktstraße;36 - 42;10243;DE;H2 MOBILITY
+119;Berlin - Rothenbachstr. (Shell);Rothenbachstr. ;1;13089		;DE;H2 MOBILITY
+121;Berlin - Sachsendamm (Shell);Sachsendamm;90 - 92;10829;DE;H2 MOBILITY
+125;Bozen (H2 Center);Via Enrico Mattei;1;39100;IT;iit – Institut für innovative Technologien
+128;Bremen (Shell);Osterholzer Heerstraße;222;28325;DE;H2 MOBILITY
+132;Copenhagen Ring - Gladsaxe;Dynamovej;2;2730;DK;Copenhagen Hydrogen Network A/S
+133;Copenhagen South / Sydhavnen;Borgmester christiansens gade;59;2450;DK;Copenhagen Hydrogen Network A/S
+134;Copenhagen West / Köge;Servicevej;2;4600;DK;Copenhagen Hydrogen Network A/S
+135;DATS 24 Halle Dassenveld;Zinkstraat;1;1500;BE;DATS 24
+136;Derching (OMV);Winterbruckenweg			;53;86316;DE;H2 MOBILITY
+138;Dresden (TOTAL);Wiener Strasse;39;01069;DE;H2 MOBILITY
+139;Duisburg (TOTAL);Am Schlütershof ;27;unknown zip;DE;H2 MOBILITY
+140;Düsseldorf - Höherweg (Air Liquide);Höherweg;202;40233;DE;Air Liquide
+141;Düsseldorf - Oerschbachstraße (Air Liquide);Oerschbachstraße;71;40589;DE;Air Liquide
+142;Empa move - Dübendorf;Empa Campus, Überlandstraße;129;8600;CH;Empa (Abteilung Fahrzeugantriebssysteme)
+145;Esbjerg;Darumvej;145;6700;DK;Danish Hydrogen Fuel A/S
+146;Essen (Shell);Katernberger Str.		;99;45327;DE;H2 MOBILITY
+147;Fellbach (TOTAL);Ohmstraße;25;70736;DE;H2 MOBILITY
+149;Frankfurt - Hanauer Landstr. (Shell);Hanauer Landstr.;334;60314;DE;H2 MOBILITY
+150;Frankfurt - Industriepark Höchst (AGIP);Industriepark Höchst Tor-Süd;unknown streetnr;65926;DE;Agip
+152;Frechen - Kölner Straße (Air Liquide);Kölner Straße;209;50226 ;DE;H2 MOBILITY
+153;Freiburg Fraunhofer ISE Station;Heidenhofstraße;3;79110;DE;FhG ISE
+154;Fürholzen West - Rasthof (Tank & Rast);BAB9 / Günzenhauser Straße ;9;85376;DE;Autobahn Tank &  Rast GmbH
+155;Fürth (Shell);Hans-Vogel-Str. ;55;90765;DE;H2 MOBILITY
+156;Gardermoen, Oslo Airport;Parking P5, Edvard Grieg Road;116;2060;NO;HYOP
+158;Geiselwind (TOTAL);Scheinfelder Straße;23;96160;DE;H2 MOBILITY
+159;Geisingen (Shell);Bodenseestraße;19;78187;DE;H2 MOBILITY
+160;Graz (OMV);Ostbahnstraße;10;8041;AT;OMV AT
+162;Hagenow (Shell);Sudenhofer Strasse	;2;19230;DE;H2 MOBILITY
+163;Halle / Saale;Blücherstraße;7;06122;DE;H2 MOBILITY
+165;Hamburg - Bramfelder Chaussee (Shell);Bramfelder Chaussee;370;22175;DE;H2 MOBILITY
+167;Hamburg - HafenCity;Oberbaumbrücke;1;20457;DE;H2 MOBILITY
+169;Hamburg - Schnackenburgallee (Shell);Schnackenburgallee;12;22525;DE;H2 MOBILITY
+170;Handewitt (Shell);Lecker Chausee;36;24983;DE;H2 MOBILITY
+171;Hannover (Linde);Industrieweg;30;30179;DE;H2 MOBILITY
+172;Hasbergen (TOTAL);Hauptstraße ;107;49205;DE;H2 MOBILITY
+174;Helmond (NL) - WaterstofNet Tankstelle ;Steenovenweg;30;5708 HN;NL;WaterstofNet
+176;Herten;Marie-Curie-Str/Albert-Einstein-Allee;unknown streetnr;45699;DE;H2 MOBILITY
+177;Hirschberg (TOTAL);Goldbeckstraße ;1;69493;DE;H2 MOBILITY
+179;Hunzenschwil (CH) - Coop Pronto mit Tankstelle;Gewerbestrasse;1;5502;CH;Coop Mineraloel AG
+180;Ingolstadt (TOTAL);Manchinger Straße;84;85053;DE;H2 MOBILITY
+181;Innsbruck (OMV);Andechsstraße;83;6020;AT;OMV AT
+183;Kamen (Air Liquide);Schattweg;6;59174;DE;H2 MOBILITY
+184;Karlsruhe (TOTAL);Erlachseeweg;10;76227;DE;H2 MOBILITY
+185;Keflavik | Reykjanesbær;Fitjar;260;unknown zip;IS;unknown operatorname
+187;Koblenz (Autohof);Am Rübenacher Wald;2;56072;DE;H2 MOBILITY
+188;Kolding;Vejlevej;361;6000;DK;Danish Hydrogen Fuel A/S
+189;Köln/Bonn Flughafen (TOTAL);Flughafen Köln/Bonn;unknown streetnr;51147;DE;H2 MOBILITY
+191;Korsør;Storebæltsvej;44;4220;DK;Danish Hydrogen Fuel A/S
+192;Laatzen / Messe Hannover (Shell);Karlsruher Str.;12;30880;DE;H2 MOBILITY
+194;Leipzig (TOTAL);Poststr. ;3 ;04158;DE;H2 MOBILITY
+195;Leverkusen (Shell);Karl-Krekeler-Str.;2;51373;DE;H2 MOBILITY
+196;Limburg (Air Liquide);Brüsseler Str.;14;65552;DE;H2 MOBILITY
+198;Lohfelden / Kassel (Shell);Alexander-von-Humbodt-Str.;1;34253;DE;H2 MOBILITY
+199;London (Heathrow Airport);Hatton Cross (Heathrow Airport), Envoy Avenue, ;unknown streetnr;TW6 2GE;GB;Air Products
+200;London (Hendon);Sainsbury's , Unit 4, Hyde Estate Road, Hendon;unknown streetnr;NW9 6JX;GB;Air Products
+201;Magdeburg (TOTAL);Glindenberger Weg;3;39126;DE;H2 MOBILITY
+202;Mariestad;Sörgårdsvägen;1;54235;SE;VänerEnergi
+204;Metzingen (OMV);Auchterstraße;19;72555;DE;H2 MOBILITY
+205;Mönchengladbach (Shell);Odenkirchenerstr.;160;41236;DE;H2 MOBILITY
+206;Mülheim an der Ruhr (Star);Humboldtring;3;45472;DE;H2 MOBILITY
+207;München - Detmoldstraße (TOTAL);Detmoldstraße;1;80935;DE;TOTAL
+208;München - Flughafen (OMV);Erdinger Allee;2;85356;DE;H2 MOBILITY
+209;München - Kreillerstraße (ALLGUTH);Kreillerstraße;220;81825;DE;H2 MOBILITY
+210;München - Ottobrunner Str. (OMV);Ottobrunner Str. ;116;81737;DE;H2 MOBILITY
+211;München - Verdistraße (Shell);Verdistraße;96;81673;DE;H2 MOBILITY
+213;Münster (Westfalen AG);Kopenhagener Straße;19;48163;DE;Westfalen AG
+214;National Physical Laboratory (NPL);Essen Way;unknown streetnr;TW11 0EB;GB;ITM Power
+216;Nürnberg (OMV);Gleiwitzer Straße;220;90475;DE;H2 MOBILITY
+217;Offenbach (Air Liquide);Kaiserleipromenade;5;63067;DE;H2 MOBILITY
+219;Orkan Miklabraut;Miklabraut;101;108;IS;unknown operatorname
+220;Orly - Paris South (Air Liquide);Aérogare Orly, Avenue de l'Aéroport;unknown streetnr;94390;FR;Air Liquide FR
+222;Paris Nord (Roissy);parking PW aéroport de Roissy-Charles de GAULLE;unknown streetnr;unknown zip;FR;Air Liquide FR
+225;Pentling (OMV);Ammerholz;3;93080;DE;H2 MOBILITY
+226;Pforzheim (Shell);Im Buchbusch;12;75177;DE;H2 MOBILITY
+227;Potsdam (TOTAL);Horstweg ;53c;14478;DE;H2 MOBILITY
+230;Ratingen (Shell);Brachter Str.;36;40882;DE;H2 MOBILITY
+231;Reykjavik;Grjótháls/ Ártúnshöfði;110;unknown zip;IS;unknown operatorname
+232;Rheda-Wiedenbrück (Shell);Bielefelder Str.;145;33378;DE;H2 MOBILITY
+233;Rhoon - Rotterdam (Air Liquide);Groene Kruisweg;399;3161;NL;Air Liquide NL
+236;Rostock (TOTAL);Tessiner Str.;98;18055;DE;H2 MOBILITY
+237;Rotherham Wind Hydrogen Station;Hydrogen Mini Grid, Advanced Manufacturing Park, Morse Way, off Brunel Way;unknown streetnr;S60 5WG;GB;ITM Power
+239;Sandviken;Sätragatan;17;811 61;SE;AGA Linde
+240;Sarreguemines - Plateforme FaHyence;44 Rue Poincaré;unknown streetnr;57200;FR;SEM/EDF
+241;Schnelldorf (OMV);Rudolf-Diesel-Str. ;1 ;91625;DE;H2 MOBILITY
+242;Shell Cobham Services;Extra Motorway Service Area;unknown streetnr;KT11 3DB;GB;unknown operatorname
+243;Siegen;Obere Leimbach;unknown streetnr;57074;DE;H2 MOBILITY
+244;Sindelfingen (Shell);Neckarstraße;10;71065;DE;H2 MOBILITY
+245;Stuhr (Shell);Moordeicher Landstr. ;84-86;28816;DE;H2 MOBILITY
+246;Stuttgart - Flughafen (OMV);Flughafenstraße;70;70629;DE;H2 MOBILITY
+247;Swindon;Johnson Matthey Fuel Cells, Lydiard Fields, Great Western Way ;unknown streetnr;SN5 8AT;GB;ITM Power
+249;The Centre for Engineering and Manufacturing Excellence (CEME);CEME Campus, Marsh Way;unknown streetnr;RM13 8EU;GB;unknown operatorname
+250;Ulm (TOTAL);Helmholtzstraße;8;89081;DE;H2 MOBILITY
+251;Uno-X Åsane; Liamyrane ;2;5132;NO;Uno-X
+253;Uno-X Hvam;Trondheimsveien;40;2013;NO;Uno-X
+254;Uno-X Kjorbo;Kjørboveien;1;1337;NO;Uno-X
+259;Versailles - Paris West (Air Liquide);Chemin de la croix blanche;unknown streetnr;78350;FR;Air Liquide FR
+260;Weiterstadt (Shell);Robert-Koch-Str.;1;64331;DE;H2 MOBILITY
+261;Wendlingen (Shell);Heinrich-Otto-Str.;2;73240;DE;H2 MOBILITY
+263;Wien (OMV);Shuttleworthstraße;10;1210;AT;OMV AT
+264;Wiesbaden (Shell);Borsigstraße;1;65205;DE;H2 MOBILITY
+265;Wolfsburg (Air Liquide);Schulenburgallee;2;38448;DE;H2 MOBILITY
+266;Wr. Neudorf (OMV);IZ NÖ Süd Straße Objekt 9;4;2351;AT;OMV AT
+267;Wuppertal (Shell);Schmiedestr.;91;42279;DE;H2 MOBILITY
+268;Zaventem - Brussels (Air Liquide);Leuvensesteenweg;546;1930;BE;Air Liquide BE
